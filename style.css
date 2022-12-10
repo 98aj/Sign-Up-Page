@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: inter;
+    left: 198px;
+}
+
+.btn {
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    font-family: 'Inter';
+    font-style: normal;
+
+    font-size: 24px;
+
+}
